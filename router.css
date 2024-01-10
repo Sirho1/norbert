@@ -1,0 +1,13 @@
+body {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      background: linear-gradient(90deg, grey, gray);
+}
+.entry{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 70%;
+}
